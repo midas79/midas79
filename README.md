@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dionysus</h1>
-<h3 align="center">Not a professional frontend programmer, but I will one day!!</h3>
+<h3 align="center">Not a professional backend programmer, but I will one day!!</h3>
 
-
-![logo](https://github.com/midas79/midas79/blob/main/wellcooked.gif)
-
+![logo](https://github.com/midas79/midas79/blob/main/halfdead.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=midas79&label=Profile%20views&color=0e75b6&style=flat" alt="midas79" /> </p>
 
@@ -29,13 +27,15 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
  alt="photoshop" width="40" height="40"/> </a> 
- <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=midas79&show_icons=true&locale=en&layout=compact" alt="midas79" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=midas79&show_icons=true&locale=en" alt="midas79" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=midas79&" alt="midas79" /></p>
+
+![logo](https://github.com/midas79/midas79/blob/main/ryan.gif)
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/diavollllo"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="diavollllo" /></a></p><br><br>
