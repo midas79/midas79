@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dionysus</h1>
 <h3 align="center">Not a professional frontend programmer, but I will one day!!</h3>
 
-![logo](https://github.com/midas79/profile/blob/main/template%20jadi.png)
+<div align="center">
+ ![logo](https://github.com/midas79/midas79/blob/main/SXRT%20%C2%A3%20(1).gif)
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=midas79&label=Profile%20views&color=0e75b6&style=flat" alt="midas79" /> </p>
 
