@@ -35,6 +35,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=midas79&" alt="midas79" /></p>
 
+![](https://leetcard.midas79/midas79?animation=false)
+
 ![logo](https://github.com/midas79/midas79/blob/main/ryan.gif)
 
 <h3 align="left">Support:</h3>
