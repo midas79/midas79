@@ -29,7 +29,7 @@
  alt="photoshop" width="40" height="40"/> </a> 
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=midas79&show_icons=true&locale=en&layout=compact" alt="midas79" /></p>
+![](https://raw.githubusercontent.com/midas79/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=midas79&show_icons=true&locale=en" alt="midas79" /></p>
 
