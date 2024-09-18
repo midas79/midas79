@@ -1,5 +1,5 @@
 # 💫About Me :
-👋 Hi there! I'm an undergraduate student at Brawijaya University, majoring in Informatics. Currently, I'm diving into Mobile Application Development, Machine Learning, Natural Language Processing, and Artificial Neural Networks.
+👋 Hi there! I'm an undergraduate student at Brawijaya University, majoring in Computer Science. Currently, I'm diving into Mobile Application Development, Machine Learning, Natural Language Processing, and Artificial Neural Networks.
 
 In my free time, you'll find me hiking or getting lost in a good book. My goal is to become a professional programmer, and I'm always looking to learn and build new things.
 
@@ -18,14 +18,17 @@ Let’s collaborate and code the future together!
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 # 📊GitHub Stats :
-![midas79's Stats](https://github-readme-stats.vercel.app/api?username=midas79&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![midas79's Streak](https://github-readme-streak-stats.herokuapp.com/?user=midas79&theme=tokyonight&hide_border=true)
-![midas79's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=midas79&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+
+<img src="https://github-readme-stats.vercel.app/api?username=midas79&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" style="width: 400px;"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=midas79&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" style="width: 400px;"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=midas79&theme=tokyonight&hide_border=true" style="width: 400px;"/>
 
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=midas79&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
-![logo](https://github.com/midas79/midas79/blob/main/ryan.gif)
+## 💪Support Me
 
-<h3 align="left">Support:</h3>
+![logo](https://github.com/midas79/midas79/blob/main/ryan.gif)
 <p><a href="https://ko-fi.com/diavollllo"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="diavollllo" /></a></p><br><br>
