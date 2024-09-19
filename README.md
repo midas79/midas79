@@ -1,9 +1,7 @@
 # 💫About Me :
 👋 Hi there! I'm an undergraduate student at Brawijaya University, majoring in Computer Science. Currently, I'm diving into Mobile Application Development, Machine Learning, Natural Language Processing, and Artificial Neural Networks.
 
-In my free time, you'll find me hiking or getting lost in a good book. My goal is to become a professional programmer, and I'm always looking to learn and build new things.
-
-Let’s collaborate and code the future together!
+In my free time, you'll find me watching movies or getting lost in a good book. My goal is to become a professional programmer, and I'm always looking to learn and build new things.
 
 **You can see my college repositories on my profile**
 
