@@ -1,5 +1,5 @@
 # 💫About Me :
-👋 Hi there! I'm an undergraduate student at Brawijaya University, majoring in Computer Science. Currently, I'm diving into Mobile Application Development, Machine Learning, Natural Language Processing, and Artificial Neural Networks.
+👋 Hi there! I'm an undergraduate student at Brawijaya University, majoring in Computer Science. Currently, I'm diving into Mobile App Programming, Machine Learning, Natural Language Processing, and Artificial Neural Networks.
 
 In my free time, you'll find me watching movies or getting lost in a good book. My goal is to become a professional programmer, and I'm always looking to learn and build new things.
 
