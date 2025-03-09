@@ -12,7 +12,7 @@ In my free time, you'll find me watching movies or getting lost in a good book. 
 [![wakatime](https://wakatime.com/badge/user/e97c6f19-b909-4567-ae12-ae00ebc213f6.svg)](https://wakatime.com/@e97c6f19-b909-4567-ae12-ae00ebc213f6)
 
 ## 🌐Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/diavollllo) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dionsaaurus) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/diavollllo) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/diavollllo) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dionsaaurus)
 
 
 # 💻 Tech Stack:
